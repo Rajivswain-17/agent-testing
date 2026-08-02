@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f2d23037-6f4f-4312-825f-1131e5ebd8b6",
+    "userId": "user-101",
+    "userMessage": "My name is Rajib Swain and I study AI engineering.",
+    "assistantReply": "Hello Rajib Swain, how can I assist you with AI engineering or any other topic you'd like to explore?",
+    "timestamp": "2026-08-02T03:34:15.767Z"
+  },
+  {
+    "id": "1e964079-28b2-4994-b7bc-416b3c2ef46a",
+    "userId": "user-101",
+    "userMessage": "What is my name and what do I study?",
+    "assistantReply": "Your name is Rajib Swain and you study AI engineering.",
+    "timestamp": "2026-08-02T03:34:16.280Z"
+  }
+]
